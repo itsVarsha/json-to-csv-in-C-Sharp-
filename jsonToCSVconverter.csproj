@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Email" Version="21.3.0" />
+    <PackageReference Include="ChoETL" Version="1.2.1.14" />
+    <PackageReference Include="ChoETL.JSON" Version="1.2.1.14" />
+    <PackageReference Include="ChoETL.JSON.NETStandard" Version="1.2.1.14" />
+    <PackageReference Include="CsvHelper" Version="26.1.0" />
+    <PackageReference Include="MiNET" Version="1.0.2241" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>
